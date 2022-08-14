@@ -30,8 +30,13 @@ Comparing the two sets of statistics, the temperature doesn't seem to fluctuate 
 
 ### Additional Queries
 additional queries that would further help this analysis would be to measure the historical percipitation statistics of June and december.
+
 ![Prcp](/Resources/Prcp.PNG)
 
 June PRCP Statistics          |  December PRCP Statistics
 :-------------------------:|:-------------------------:
-![June prcp statistics](/Resources/June_statistics.PNG)  |  ![December prcp statistics](/Resources/December_prcp.PNG)
+![June prcp statistics](/Resources/June_prcp.PNG)  |  ![December prcp statistics](/Resources/December_prcp.PNG)
+
+A second query I would recommend would be checking each of the stations statistics to select an area on O`ahu to build the shop. Ideally the station that reports the highest temperatures will have the most business. These queries get the average temperature for each station in June and December.
+
+![Average station temps](/Resources/Station_avg_temps.PNG)
