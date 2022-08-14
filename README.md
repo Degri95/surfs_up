@@ -29,7 +29,7 @@ Our data consists of temperatures from June and December in O`ahu from 2010 to 2
 Comparing the two sets of statistics, the temperature doesn't seem to fluctuate very far from one another. Hawaii is somewhat close to the equator and is known for having warmer temperatures so it's somewhat to be expected. The mean and median temperature for both months is above 70°, so I would say from this dataset the surf and ice cream shop would be sustainable year-round. 
 
 ### Additional Queries
-Additional queries that would further help this analysis would be to measure the historical percipitation statistics of June and december.
+Additional queries that would further help this analysis would be to measure the historical percipitation statistics of June and December.
 
 ![Prcp](/Resources/Prcp.PNG)
 
