@@ -17,19 +17,19 @@ Our data consists of temperatures from June and December in O`ahu from 2010 to 2
 
 ### Key differences
 - December has 183 less data points than June. (Around 10.76% Less)
-- Junes mean temperature is 3.9° higher than Decembers
-- Decembers standard deviation is .489° higher.
-- Decembers minimum temperatures is 8° lower than Junes.
-- Junes 25th percentile is 8° higher than Decembers.
-- Junes median is 4° higher than Decembers.
-- Junes 75th percentile is 3° higher than Decembers.
-- Junes Maximum temperature is 2° higher than Decembers.
+- June's mean temperature is 3.9° higher than December's.
+- December's standard deviation is .489° higher.
+- December's minimum temperatures is 8° lower than June's.
+- June's 25th percentile is 8° higher than December's.
+- June's median is 4° higher than December's.
+- June's 75th percentile is 3° higher than December's.
+- June's Maximum temperature is 2° higher than December's.
 
 ## Summary
-Comparing the two sets of statistics, the temperature doesn't seem to fluctuate very far from one another. Hawaii is somewhat close to the equator and is known for having warmer temperatures so it's somewhat to be expected. The mean and median tempurature for both months is above 70°, so I would say from this dataset the surf and ice cream shop would be sustainable year-round. 
+Comparing the two sets of statistics, the temperature doesn't seem to fluctuate very far from one another. Hawaii is somewhat close to the equator and is known for having warmer temperatures so it's somewhat to be expected. The mean and median temperature for both months is above 70°, so I would say from this dataset the surf and ice cream shop would be sustainable year-round. 
 
 ### Additional Queries
-additional queries that would further help this analysis would be to measure the historical percipitation statistics of June and december.
+Additional queries that would further help this analysis would be to measure the historical percipitation statistics of June and december.
 
 ![Prcp](/Resources/Prcp.PNG)
 
