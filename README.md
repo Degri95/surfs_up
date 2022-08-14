@@ -7,4 +7,8 @@ In this analysis key statistics will be compared in O‘ahu, Hawaii's weather to
 ## Results
 
 ### Statistics
-![June Statistics](/Resources/June_statistics.PNG) ![December Statistics](/Resources/December_statistics.PNG)
+
+
+June Statistics          |  December Statistics
+:-------------------------:|:-------------------------:
+![June Statistics](/Resources/June_statistics.PNG)  |  ![December Statistics](/Resources/December_statistics.PNG)
